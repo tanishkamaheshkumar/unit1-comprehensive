@@ -25,6 +25,6 @@ This repository demonstrates an end-to-end Git and GitHub workflow.
 
 This repository demonstratres Git branching, partial staging, merging, and GitHub workflows.
 
-## Fetch vs Pull Demo
+## Fetch vs Pull Demonstration
 
-This change was made directly on GitHub to demonstrate fetch and pull.
+This is a new GitHub change for demonstrating git fetch and git pull.
