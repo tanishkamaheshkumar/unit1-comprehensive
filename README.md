@@ -24,3 +24,7 @@ This repository demonstrates an end-to-end Git and GitHub workflow.
 ## Git Practical Work
 
 This repository demonstratres Git branching, partial staging, merging, and GitHub workflows.
+
+## Fetch vs Pull Demo
+
+This change was made directly on GitHub to demonstrate fetch and pull
