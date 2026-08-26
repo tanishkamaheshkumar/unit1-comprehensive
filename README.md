@@ -27,4 +27,4 @@ This repository demonstratres Git branching, partial staging, merging, and GitHu
 
 ## Fetch vs Pull Demo
 
-This change was made directly on GitHub to demonstrate fetch and pull
+This change was made directly on GitHub to demonstrate fetch and pull.
