@@ -21,6 +21,6 @@ This repository demonstrates an end-to-end Git and GitHub workflow.
 - GitHub
 - Markdown
 
-## Git Practical Work
+## Collaboration Demo
 
-This repository demonstratres Git branching, partial staging, merging, and GitHub workflows.
+This change was made through a fork and pull request workflow.
